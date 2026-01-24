@@ -22,7 +22,7 @@ This repository also includes a structured testing effort (static + dynamic test
 
 ### Steps
 1. Clone the repository:
-   git clone https://github.com/joldixure/swe_testing_project_JoldiXure
+   git clone https://github.com/joldixure/swe_testing_project
 2. Open the project in Eclipse:
    - File → Open Projects from File System
    - Select the cloned folder
