@@ -1,5 +1,0 @@
-0,Albeni,Cokollat,20.0,18,eti
-0,CocaCola,Drink,80.0,69,COLA
-0,Salce,Ushqim,30.0,10,insifa
-0,Omar Alsafarti,Human,0.0,1,Xhemal
-0,bono,ushqim,10.0,15,era
